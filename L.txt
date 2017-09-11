@@ -1,14 +1,20 @@
-3rd playlist updated 8 minutes ago
-2nd playlist updated 12 seconds ago
-1st playlist updated 2 hours ago
+<streamingInfos>
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>DO NOT SHARE</title>
+<link>ignore</link>
+   <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo> 
 
-Please send your donation to paypal.me/optimumbliss
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>Special - Click here</title>
+<link>ignore</link>
+   <externallink>http://thepk.co:2095/get.php?username=reno&amp;password=fernley801&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
 
-Don't TICK or CHOOSE goods & services while making a donation.
-
-Thanks
-
-http://iptv.dguk.co.uk/live/test123/test123/12941.ts
-
-http://system.fpiptv.com:8080/get.php?username=rober&password=rober&type=m3u
-
+</streamingInfos>
