@@ -13,7 +13,7 @@
 	<item>
 	<title>Special - Click here</title>
 <link>ignore</link>
-   <externallink>http://iptv.dguk.co.uk/get.php?username=xtream&amp;password=xtream&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://192.99.66.185:8000/get.php?username=gqmanvan&amp;password=davemaster123&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
