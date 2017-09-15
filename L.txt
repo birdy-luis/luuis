@@ -11,10 +11,30 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
-	<title>Special - Click here</title>
+	<title>Special - 01</title>
 <link>ignore</link>
    <externallink>http://192.99.66.185:8000/get.php?username=gqmanvan&amp;password=davemaster123&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
+
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>Special - 02</title>
+<link>ignore</link>
+   <externallink>http://163.172.217.107:1944/get.php?username=WWW.IPTV2424.COM-15-9&amp;password=TeYqFa5SY8&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+	</streaminginfo>
+
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>Special - 03</title>
+<link>ignore</link>
+   <externallink>http://46.105.119.223:8000/get.php?username=hasanturan&amp;password=turan&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+	</streaminginfo>
+
+
 
 </streamingInfos>
