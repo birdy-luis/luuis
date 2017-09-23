@@ -20,9 +20,9 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
-	<title>Special - 02</title>
+	<title>The Best</title>
 <link>ignore</link>
-   <externallink>http://163.172.217.107:1944/get.php?username=WWW.IPTV2424.COM-15-9&amp;password=TeYqFa5SY8&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<externallink>http://nitrotv.for-the.biz:25461/get.php?username=easy4545&amp;password=4444&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 	</streaminginfo>
 
