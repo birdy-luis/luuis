@@ -29,9 +29,9 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
-	<title>Special - 03</title>
+	<title>All rounder</title>
 <link>ignore</link>
-   <externallink>http://46.105.119.223:8000/get.php?username=hasanturan&amp;password=turan&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://ip.123sat.net:7200/get.php?username=abdelkader&amp;password=123456&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 	</streaminginfo>
 
