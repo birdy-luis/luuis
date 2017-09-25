@@ -31,7 +31,7 @@
 	<item>
 	<title>All rounder</title>
 <link>ignore</link>
-   <externallink>http://ip.123sat.net:7200/get.php?username=abdelkader&amp;password=123456&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://qapps.newgooder.com/plugintv/$$TSDOWNLOADER$$</externallink>
 	</item>
 	</streaminginfo>
 
