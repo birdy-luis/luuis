@@ -2,7 +2,8 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
-	<title>DO NOT SHARE</title>
+	<title>DO NOT SHARE
+	Will add more servers soon</title>
 <link>ignore</link>
    <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
@@ -29,11 +30,21 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
-	<title>All rounder</title>
+	<title>Perfect for All Countries</title>
 <link>ignore</link>
-   <externallink>http://qapps.newgooder.com/plugintv/$$TSDOWNLOADER$$</externallink>
+   <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp7.m3u$$TSDOWNLOADER$$</externallink>
 	</item>
 	</streaminginfo>
+
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>Sports and others - 01</title>
+<link>ignore</link>
+   <externallink>http://qapps.newgooder.com/plugintv/SportTV68.m3u$$TSDOWNLOADER$$</externallink>
+	</item>
+	</streaminginfo>
+
 
 
 
