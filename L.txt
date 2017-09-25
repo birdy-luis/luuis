@@ -44,7 +44,25 @@
    <externallink>http://qapps.newgooder.com/plugintv/SportTV68.m3u$$TSDOWNLOADER$$</externallink>
 	</item>
 	</streaminginfo>
+	
+	
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>Sports and others - 02</title>
+<link>ignore</link>
+   <externallink>http://qapps.newgooder.com/plugintv/SportTV682.m3u$$TSDOWNLOADER$$</externallink>
+	</item>
+	</streaminginfo>
 
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>Sports and others - 03</title>
+<link>ignore</link>
+   <externallink>http://qapps.newgooder.com/plugintv/SportTV681.m3u$$TSDOWNLOADER$$</externallink>
+	</item>
+	</streaminginfo>
 
 
 
