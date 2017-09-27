@@ -10,6 +10,37 @@
 </streaminginfo> 
 
 <streaminginfo>
+	<cname>number 02</cname>
+	<item>
+	<title>Bliss Tv - Local Channels & Radio</title>
+<link>ignore</link>
+<fanart>http://www.entrypoint.cz/files/2814/4240/8640/questions-reponses-profits.jpg</fanart>
+<thumbnail>http://s3.amazonaws.com/rv-wp/directvdealscom/uploads/2014/08/breaking-news-screen.png</thumbnail>
+   <externallink>http://www.radiosargentina.com.ar/TVUS.m3u$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>VIP - 01</title>
+<link>ignore</link>
+   <externallink>http://dov.panel-infinity.com:8000/get.php?username=morgan&amp;password=morgan&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>VIP - 02</title>
+<link>ignore</link>
+   <externallink>http://portal.softclientarea.com:9100/get.php?username=john&amp;password=john&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
 	<cname>Testing</cname>
 	<item>
 	<title>Special - 01</title>
@@ -32,7 +63,7 @@
 	<item>
 	<title>Perfect for All Countries</title>
 <link>ignore</link>
-   <externallink>http://qapps.newgooder.com/plugintv/ListTVProApp7.m3u$$TSDOWNLOADER$$</externallink>
+   <externallink>http://qapps.newgooder.com/plugintv/tv_channels_avionbrasha1day.m3u$$TSDOWNLOADER$$</externallink>
 	</item>
 	</streaminginfo>
 
