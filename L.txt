@@ -25,7 +25,7 @@
 	<item>
 	<title>VIP - 01</title>
 <link>ignore</link>
-   <externallink>http://dov.panel-infinity.com:8000/get.php?username=morgan&amp;password=morgan&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   <externallink>http://104.245.96.214:8000/get.php?username=alexandra&amp;password=alexandra1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
