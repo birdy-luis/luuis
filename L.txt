@@ -23,6 +23,15 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
+	<title>THE BEST OF THE BEST</title>
+<link>ignore</link>
+   <externallink>http://system.fpiptv.com:8080/get.php?username=marc&amp;password=marc&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
 	<title>VIP - 01</title>
 <link>ignore</link>
    <externallink>http://104.245.96.214:8000/get.php?username=alexandra&amp;password=alexandra1&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
@@ -36,6 +45,26 @@
 	<title>VIP - 02</title>
 <link>ignore</link>
    <externallink>http://portal.softclientarea.com:9100/get.php?username=john&amp;password=john&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>VIP - 03</title>
+<link>ignore</link>
+   <externallink>http://mnenvyiptv.org:5050/get.php?username=carlsberg&amp;password=carlsberg&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+	</item>
+</streaminginfo>
+
+
+<streaminginfo>
+	<cname>Testing</cname>
+	<item>
+	<title>VIP - 04</title>
+<link>ignore</link>
+   <externallink>http://mnenvyiptv.org:5050/get.php?username=carlsberg&amp;password=carlsberg&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
