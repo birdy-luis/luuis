@@ -2,8 +2,9 @@
 <streaminginfo>
 	<cname>Testing</cname>
 	<item>
-	<title>DO NOT SHARE
-	Will add more servers soon</title>
+	<title>[COLOR yellow][B] Playlist link will be changed
+	
+	Contact John Bliss by 10th October[/B][/COLOR]</title>
 <link>ignore</link>
    <externallink>http://midnighttvstreams.ddns.net:5050/get.php?username=adrian&amp;password=adrian&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
 	</item>
@@ -21,11 +22,15 @@
 </streaminginfo>
 
 <streaminginfo>
-	<cname>Testing</cname>
+	<cname>number 02</cname>
 	<item>
-	<title>THE BEST OF THE BEST</title>
+	<title>Bliss Tv - [COLOR yellow]Fantastic Iptv[/COLOR]</title>
 <link>ignore</link>
-   <externallink>http://system.fpiptv.com:8080/get.php?username=marc&amp;password=marc&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+<fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
+<thumbnail>https://i.imgur.com/mrlSOSH.jpg</thumbnail>
+
+   <externallink>http://anonymustv.tk:8000/get.php?username=27SIMOSul071017&amp;password=IxwrkregY5&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
+   
 	</item>
 </streaminginfo>
 
