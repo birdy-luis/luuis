@@ -139,11 +139,11 @@
 <streaminginfo>
 	<cname>number 02</cname>
 	<item>
-	<title>[B][COLOR darkorchid]Bliss Tv - [COLOR lime][B]Weekend Fun [/B] - Offline[/COLOR]</title>
+	<title>[B][COLOR darkorchid]Bliss Tv - [COLOR greenlime][B]Weekend Fun [/B] [/COLOR]</title>
 <link>ignore</link>
 <fanart>https://i.imgur.com/mrlSOSH.jpg</fanart>
 <thumbnail>https://i.imgur.com/erfUW4u.jpg</thumbnail>
-   <externallink>http://bit.ly/2iHUZ2n</externallink>
+   <externallink>http://ok2.se:8000/get.php?username=b.i.r.dycanflyy@gmail.com&password=ejwghefz&type=m3u$$TSDOWNLOADER$$</externallink>
 	</item>
 </streaminginfo>
 
